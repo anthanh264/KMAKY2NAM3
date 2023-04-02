@@ -1,5 +1,19 @@
 
+802.11
+– WEP (Wired Equivalent Privacy): (1997)
++ CRC-32
++ RC4
 
+802.11i
+– WPA (Wi-fi Protected Access): (2003)
++ TKIP (Temporal Key Integrity Protocol), Michael-64
++ RC4
++ 802.1x/EAP
+
+– WPA2 = RSN:(2004)
++ CCMP (Counter Mode CBC-MAC Protocol)
++ AES/TKIP (RC4, Michael)
++ 802.1X/EAP (TKIP, EAP-TLS)
 # Chương 5 An toàn trong WLAN 
 
 
